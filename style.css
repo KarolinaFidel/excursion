@@ -1,0 +1,23 @@
+html {background: black;
+@import url(//db.onlinewebfonts.com/c/562fa31bba08b3f71cb71257ddb880d5?family=Verdana);}
+
+
+main {background-color: black; background: black;
+text-align: center;}
+
+
+h1 {font-family: "Verdana", "Geneva", sans-serif;
+    font-size: 3em;
+    font-weight: 70;
+    text-align: center;
+color:white}
+
+h2 {color: gray;
+    text-justify: inherit;
+font-family: "Verdana", "Geneva", sans-serif;
+font-weight: 70;}
+
+p {color: white;}
+
+footer {color: white;
+text-align: right;}
